@@ -23,14 +23,14 @@
 - **Conclusão:** 12/2010
 
 
-- **Instituição:** CEET Vasco Coutinhos
+- **Instituição:** CEET Vasco Coutinho
 - **Curso:** Técnico em Informática
 - **Conclusão:** 6/2013
 - **Duração:** 18 M
 
 
 - **Instituição:** CEET Vasco Coutinho
-- **Curso:** Técnico em Programação de Jogos Virtuais
+- **Curso:** Técnico em Programação de jogos digitais
 - **Conclusão:** 12/2015
 - **Duração:** 18 M
 
