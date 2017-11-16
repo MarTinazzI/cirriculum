@@ -38,10 +38,10 @@ function Generator(person) {
         this.header3("Formação");
         for (let education of person.education) {
             this.unorderedList(`${bold('Instituição:')} ${education.institution}`);
-            this.unorderedList(`${bold('Curso:')} ${education.course}`);
-            this.unorderedList(`${bold('Conclusão:')} ${formatDate(education.conclusion)}`);
+            this.unorderedList(`${bold('Curso:')} ${education.course}`,'  ');
+            this.unorderedList(`${bold('Conclusão:')} ${formatDate(education.conclusion)}`,'  ');
             if (education.duration) {
-                this.unorderedList(`${bold('Duração:')} ${education.duration.time} ${education.duration.type}`);
+                this.unorderedList(`${bold('Duração:')} ${education.duration.time} ${education.duration.type}`,'  ');
             }
             this.breakline();
         }

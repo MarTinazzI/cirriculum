@@ -19,20 +19,20 @@
 ---
 ### Formação
 - **Instituição:** E.E.E.F.M Florentino Avidos
-- **Curso:** Ensino Médio
-- **Conclusão:** 12/2010
+  - **Curso:** Ensino Médio
+  - **Conclusão:** 12/2010
 
 
 - **Instituição:** CEET Vasco Coutinho
-- **Curso:** Técnico em Informática
-- **Conclusão:** 6/2013
-- **Duração:** 18 M
+  - **Curso:** Técnico em Informática
+  - **Conclusão:** 6/2013
+  - **Duração:** 18 M
 
 
 - **Instituição:** CEET Vasco Coutinho
-- **Curso:** Técnico em Programação de jogos digitais
-- **Conclusão:** 12/2015
-- **Duração:** 18 M
+  - **Curso:** Técnico em Programação de jogos digitais
+  - **Conclusão:** 12/2015
+  - **Duração:** 18 M
 
 
 ---
