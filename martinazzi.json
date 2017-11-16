@@ -1,0 +1,203 @@
+{
+	"fullName": "Rafael Costa Martinazzi",
+	"birthday": "1989-06-14T03:00:00.000Z",
+	"age": 28,
+	"nationality": "Brasileiro",
+	"phoneList": [
+		{
+			"prefix": 27,
+			"number": 981276906
+		},
+		{
+			"prefix": 27,
+			"number": 988063632
+		}
+	],
+	"mailList": [
+		"data.dyne@hotmail.com"
+	],
+	"address": [
+		{
+			"state": "ES",
+			"city": "Vila Velha",
+			"neighborhood": "Aribiri"
+		}
+	],
+	"education": [
+		{
+			"institution": "E.E.E.F.M Florentino Avidos",
+			"course": "Ensino Médio",
+			"conclusion": "2010-12-01T02:00:00.000Z"
+		},
+		{
+			"institution": "CEET Vasco Coutinhos",
+			"course": "Técnico em Informática",
+			"conclusion": "2013-06-01T03:00:00.000Z",
+			"duration": {
+				"time": 18,
+				"type": "M"
+			}
+		},
+		{
+			"institution": "CEET Vasco Coutinho",
+			"course": "Técnico em Programação de Jogos Virtuais",
+			"conclusion": "2015-12-01T02:00:00.000Z",
+			"duration": {
+				"time": 18,
+				"type": "M"
+			}
+		}
+	],
+	"proficiency": [
+		{
+			"name": "JavaScript",
+			"skillLevel": 3
+		},
+		{
+			"name": "Node.js",
+			"skillLevel": 4
+		},
+		{
+			"name": "Knockout.js",
+			"skillLevel": 3
+		},
+		{
+			"name": "Angular 1",
+			"skillLevel": 1
+		},
+		{
+			"name": "Angular 2",
+			"skillLevel": 1
+		},
+		{
+			"name": "Vue.js",
+			"skillLevel": 0
+		},
+		{
+			"name": "Gulp.js",
+			"skillLevel": 2
+		},
+		{
+			"name": "Express.js",
+			"skillLevel": 3
+		},
+		{
+			"name": "Sequelize.js",
+			"skillLevel": 3
+		},
+		{
+			"name": "Handlebars.js",
+			"skillLevel": 2
+		},
+		{
+			"name": "HTML",
+			"skillLevel": 2
+		},
+		{
+			"name": "CSS",
+			"skillLevel": 2
+		},
+		{
+			"name": "MySQL/MariaDB",
+			"skillLevel": 2
+		},
+		{
+			"name": "MongoDB",
+			"skillLevel": 2
+		},
+		{
+			"name": "Loki.js",
+			"skillLevel": 2
+		},
+		{
+			"name": "Oracle DataBase",
+			"skillLevel": 1
+		},
+		{
+			"name": "Java",
+			"skillLevel": 2
+		},
+		{
+			"name": "C#",
+			"skillLevel": 2
+		},
+		{
+			"name": "PHP",
+			"skillLevel": 2
+		},
+		{
+			"name": "GNU/Linux",
+			"skillLevel": 3
+		},
+		{
+			"name": "Apache HTTPD",
+			"skillLevel": 3
+		},
+		{
+			"name": "NGINX",
+			"skillLevel": 2
+		},
+		{
+			"name": "PM2",
+			"skillLevel": 3
+		},
+		{
+			"name": "Git",
+			"skillLevel": 3
+		},
+		{
+			"name": "Markdown",
+			"skillLevel": 3
+		}
+	],
+	"experience": [
+		{
+			"company": "Blue Pixel",
+			"begin": "2015-05-01T03:00:00.000Z",
+			"conclusion": "2016-05-01T03:00:00.000Z",
+			"role": [
+				"Programador de jogos",
+				"Programador de backend",
+				"Programador de frontend",
+				"Administrador de sistemas",
+				"Programador mobile Cordova"
+			]
+		},
+		{
+			"company": "Mito Games",
+			"begin": "2016-06-01T03:00:00.000Z",
+			"conclusion": "2016-10-01T03:00:00.000Z",
+			"role": [
+				"Programador de jogos",
+				"Programador de backend",
+				"Programador de frontend",
+				"Administrador de sistemas",
+				"Programador mobile Cordova",
+				"Analista de sistema",
+				"Game Design"
+			]
+		},
+		{
+			"company": "Blue Pixel",
+			"begin": "2015-11-01T02:00:00.000Z",
+			"conclusion": "2017-03-01T03:00:00.000Z",
+			"role": [
+				"Programador de jogos",
+				"Administrador de sistemas",
+				"Diretor de tecnologia",
+				"Diretor de desenvolvimento"
+			]
+		},
+		{
+			"company": "Grupo Nasza",
+			"begin": "2017-04-01T03:00:00.000Z",
+			"role": [
+				"Programador de backend",
+				"Programador de frontend",
+				"Administrador de sistemas",
+				"Programador mobile Ionic",
+				"Diretor de tecnologia"
+			]
+		}
+	]
+}
