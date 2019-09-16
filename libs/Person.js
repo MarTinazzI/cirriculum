@@ -10,7 +10,7 @@ function Person(fullName) {
 
     this.address = [];
     this.education = [];
-    this.proficiency = [];
+    this.knowledgeArea = [];
     this.experience = [];
 
     return this;
@@ -56,8 +56,8 @@ Person.prototype.addExperience = function (experience) {
     return this;
 };
 
-Person.prototype.addProficiency = function (proficiency) {
-    this.proficiency.push(proficiency);
+Person.prototype.addKnowledgeArea = function (knowledgeArea) {
+    this.knowledgeArea.push(knowledgeArea);
     return this;
 };
 
