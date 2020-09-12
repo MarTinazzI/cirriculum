@@ -11,14 +11,14 @@ const Genarator = require('./libs/Genarator')
 
 // MarTinazzI Construction
 const MarTinazzI = (new Person('Rafael C. Martinazzi'))
-// personal information
+  // personal information
   .setBirthday(14, 6, 1989)
   .setNationality('Brasileiro')
 
   // Address
   .addAddress(
     (new Address())
-      .setCountry("Brasil")
+      .setCountry('Brasil')
       .setState('ES')
       .setCity('Vila Velha')
       .setNeighborhood('Praia de Itaparica')
@@ -120,15 +120,15 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Dart'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Kotlin'))
-          .setSkillLevel(3)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Groovy'))
-          .setSkillLevel(3)
+          .setSkillLevel(4)
       )
       .addProficiency(
         (new Proficiency('JSON'))
@@ -136,7 +136,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('YAML'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('C#'))
@@ -148,7 +148,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Bash'))
-          .setSkillLevel(3)
+          .setSkillLevel(5)
       )
   )
   .addKnowledgeArea(
@@ -167,11 +167,11 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Express.js'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Sequelize.js'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
   )
   .addKnowledgeArea(
@@ -186,11 +186,19 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Vue.js'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
+      )
+      .addProficiency(
+        (new Proficiency('Vue.js'))
+          .setSkillLevel(5)
+      )
+      .addProficiency(
+        (new Proficiency('Vuetify.js'))
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Handlebars.js'))
-          .setSkillLevel(3)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Markdown'))
@@ -198,7 +206,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Android Native'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('iOS Native'))
@@ -210,18 +218,18 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Flutter'))
-          .setSkillLevel(3)
+          .setSkillLevel(4)
       )
   )
   .addKnowledgeArea(
-    new KnowledgeArea('Databeses')
+    new KnowledgeArea('Databases')
       .addProficiency(
         (new Proficiency('MySQL/MariaDB'))
           .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('MongoDB'))
-          .setSkillLevel(3)
+          .setSkillLevel(4)
       )
       .addProficiency(
         (new Proficiency('Loki.js'))
@@ -237,7 +245,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('PostgreSQL'))
-          .setSkillLevel(3)
+          .setSkillLevel(4)
       )
   )
   .addKnowledgeArea(
@@ -264,7 +272,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Let\'s Encrypt'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Bacula'))
@@ -275,15 +283,15 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
     new KnowledgeArea('Tools')
       .addProficiency(
         (new Proficiency('Maven'))
-          .setSkillLevel(3)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Gradle'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('Gulp.js'))
-          .setSkillLevel(3)
+          .setSkillLevel(4)
       )
       .addProficiency(
         (new Proficiency('Git'))
@@ -291,11 +299,11 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       )
       .addProficiency(
         (new Proficiency('Regex'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
       .addProficiency(
         (new Proficiency('EMMET'))
-          .setSkillLevel(4)
+          .setSkillLevel(5)
       )
   )
 

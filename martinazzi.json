@@ -1,7 +1,7 @@
 {
 	"fullName": "Rafael C. Martinazzi",
 	"birthday": "1989-06-14T03:00:00.000Z",
-	"age": 30,
+	"age": 31,
 	"nationality": "Brasileiro",
 	"phoneList": [],
 	"mailList": [],
@@ -9,7 +9,7 @@
 		{
 			"state": "ES",
 			"city": "Vila Velha",
-			"neighborhood": "Aribiri",
+			"neighborhood": "Praia de Itaparica",
 			"country": "Brasil"
 		}
 	],
@@ -61,15 +61,15 @@
 				},
 				{
 					"name": "Dart",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "Kotlin",
-					"skillLevel": 2
+					"skillLevel": 4
 				},
 				{
 					"name": "Groovy",
-					"skillLevel": 2
+					"skillLevel": 3
 				},
 				{
 					"name": "JSON",
@@ -77,7 +77,7 @@
 				},
 				{
 					"name": "YAML",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "C#",
@@ -89,7 +89,7 @@
 				},
 				{
 					"name": "Bash",
-					"skillLevel": 2
+					"skillLevel": 4
 				}
 			]
 		},
@@ -110,11 +110,11 @@
 				},
 				{
 					"name": "Express.js",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "Sequelize.js",
-					"skillLevel": 3
+					"skillLevel": 4
 				}
 			]
 		},
@@ -131,11 +131,19 @@
 				},
 				{
 					"name": "Vue.js",
-					"skillLevel": 3
+					"skillLevel": 4
+				},
+				{
+					"name": "Vue.js",
+					"skillLevel": 4
+				},
+				{
+					"name": "Vuetify.js",
+					"skillLevel": 4
 				},
 				{
 					"name": "Handlebars.js",
-					"skillLevel": 2
+					"skillLevel": 4
 				},
 				{
 					"name": "Markdown",
@@ -143,7 +151,7 @@
 				},
 				{
 					"name": "Android Native",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "iOS Native",
@@ -155,12 +163,12 @@
 				},
 				{
 					"name": "Flutter",
-					"skillLevel": 2
+					"skillLevel": 3
 				}
 			]
 		},
 		{
-			"name": "Databeses",
+			"name": "Databases",
 			"proficiency": [
 				{
 					"name": "MySQL/MariaDB",
@@ -168,7 +176,7 @@
 				},
 				{
 					"name": "MongoDB",
-					"skillLevel": 2
+					"skillLevel": 3
 				},
 				{
 					"name": "Loki.js",
@@ -184,7 +192,7 @@
 				},
 				{
 					"name": "PostgreSQL",
-					"skillLevel": 2
+					"skillLevel": 3
 				}
 			]
 		},
@@ -213,7 +221,7 @@
 				},
 				{
 					"name": "Let's Encrypt",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "Bacula",
@@ -226,15 +234,15 @@
 			"proficiency": [
 				{
 					"name": "Maven",
-					"skillLevel": 2
+					"skillLevel": 4
 				},
 				{
 					"name": "Gradle",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "Gulp.js",
-					"skillLevel": 2
+					"skillLevel": 3
 				},
 				{
 					"name": "Git",
@@ -242,11 +250,11 @@
 				},
 				{
 					"name": "Regex",
-					"skillLevel": 3
+					"skillLevel": 4
 				},
 				{
 					"name": "EMMET",
-					"skillLevel": 3
+					"skillLevel": 4
 				}
 			]
 		}

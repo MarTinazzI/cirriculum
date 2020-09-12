@@ -1,11 +1,11 @@
 # Rafael C. Martinazzi
 - **Birthday** 14/6/1989
-- **Age:** 30
+- **Age:** 31
 - **Nationality:** Brasileiro
 
 
 ### Address
-- **District:** Aribiri
+- **District:** Praia de Itaparica
 - **City:** Vila Velha
 - **State:** ES
 - **Country:** Brasil
@@ -171,63 +171,65 @@ Experience
 Knowledge Map
 ---
 ### Programming language
-- **JavaScript** Level: Excellent
-- **Java** Level: Excellent
-- **Dart** Level: High
-- **Kotlin** Level: Medium
-- **Groovy** Level: Medium
-- **JSON** Level: Excellent
-- **YAML** Level: High
-- **C#** Level: Medium
-- **PHP** Level: Medium
-- **Bash** Level: Medium
+- **JavaScript**: Excellent
+- **Java**: Excellent
+- **Dart**: Excellent
+- **Kotlin**: Excellent
+- **Groovy**: High
+- **JSON**: Excellent
+- **YAML**: Excellent
+- **C#**: Medium
+- **PHP**: Medium
+- **Bash**: Excellent
 
 
 ### Back-end
-- **Node.js** Level: Excellent
-- **Quarkus** Level: High
-- **Aqueduct** Level: High
-- **Express.js** Level: High
-- **Sequelize.js** Level: High
+- **Node.js**: Excellent
+- **Quarkus**: High
+- **Aqueduct**: High
+- **Express.js**: Excellent
+- **Sequelize.js**: Excellent
 
 
 ### Front-end
-- **Knockout.js** Level: Excellent
-- **Angular** Level: Medium
-- **Vue.js** Level: High
-- **Handlebars.js** Level: Medium
-- **Markdown** Level: Excellent
-- **Android Native** Level: High
-- **iOS Native** Level: Low
-- **Cordova** Level: Excellent
-- **Flutter** Level: Medium
+- **Knockout.js**: Excellent
+- **Angular**: Medium
+- **Vue.js**: Excellent
+- **Vue.js**: Excellent
+- **Vuetify.js**: Excellent
+- **Handlebars.js**: Excellent
+- **Markdown**: Excellent
+- **Android Native**: Excellent
+- **iOS Native**: Low
+- **Cordova**: Excellent
+- **Flutter**: High
 
 
-### Databeses
-- **MySQL/MariaDB** Level: Excellent
-- **MongoDB** Level: Medium
-- **Loki.js** Level: Excellent
-- **Oracle DataBase** Level: High
-- **SQL Server** Level: High
-- **PostgreSQL** Level: Medium
+### Databases
+- **MySQL/MariaDB**: Excellent
+- **MongoDB**: High
+- **Loki.js**: Excellent
+- **Oracle DataBase**: High
+- **SQL Server**: High
+- **PostgreSQL**: High
 
 
 ### Infrastructure
-- **GNU/Linux** Level: High
-- **Apache HTTPD** Level: High
-- **NGINX** Level: High
-- **PM2** Level: High
-- **Tomcat** Level: High
-- **Let's Encrypt** Level: High
-- **Bacula** Level: High
+- **GNU/Linux**: High
+- **Apache HTTPD**: High
+- **NGINX**: High
+- **PM2**: High
+- **Tomcat**: High
+- **Let's Encrypt**: Excellent
+- **Bacula**: High
 
 
 ### Tools
-- **Maven** Level: Medium
-- **Gradle** Level: High
-- **Gulp.js** Level: Medium
-- **Git** Level: Excellent
-- **Regex** Level: High
-- **EMMET** Level: High
+- **Maven**: Excellent
+- **Gradle**: Excellent
+- **Gulp.js**: High
+- **Git**: Excellent
+- **Regex**: Excellent
+- **EMMET**: Excellent
 
 
