@@ -107,6 +107,7 @@ Generator.prototype.printKnowledgeArea = function (area) {
 }
 
 Generator.prototype.printKnowledgeMap = function () {
+  this.markdown = ''
   this.text(`Knowledge Map`)
   this.horizontalRule()
   if (this.person.knowledgeArea.length > 0) {
