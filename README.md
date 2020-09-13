@@ -5,7 +5,7 @@
 
 
 ### Address
-- **District:** Praia de Itaparica
+- **District:** Aribiri
 - **City:** Vila Velha
 - **State:** ES
 - **Country:** Brasil
@@ -20,13 +20,13 @@ Formation
 
 - **Institution:** CEET Vasco Coutinho
   - **Course:** Técnico em Informática
-  - **Conclusion:** 6/2013
+  - **Conclusion:** 12/2013
   - **Duration:** 18 M
 
 
 - **Institution:** CEET Vasco Coutinho
   - **Course:** Técnico em Programação de jogos digitais
-  - **Conclusion:** 12/2015
+  - **Conclusion:** 2/2016
   - **Duration:** 18 M
 
 
@@ -63,7 +63,7 @@ Experience
 
 
 #### Blue Pixel
-- **Start:** 11/2015
+- **Start:** 11/2016
 - **End:** 3/2017
 - **Role:**
   - Game Developer
