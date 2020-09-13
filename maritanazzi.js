@@ -21,7 +21,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
       .setCountry('Brasil')
       .setState('ES')
       .setCity('Vila Velha')
-      .setNeighborhood('Praia de Itaparica')
+      .setNeighborhood('Aribiri')
   )
 
   // Education
