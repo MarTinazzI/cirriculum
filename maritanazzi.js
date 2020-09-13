@@ -74,7 +74,7 @@ const MarTinazzI = (new Person('Rafael C. Martinazzi'))
   )
   .addExperience(
     (new Experience('Blue Pixel'))
-      .setBegin(11, 2015)
+      .setBegin(11, 2016)
       .setConclusion(3, 2017)
       .addRole('Game Developer')
       .addRole('SysAdmin')
